@@ -1,0 +1,28 @@
+{
+    "format": "particle",
+    "title": "MiniDisc",
+    "content": [
+        {
+            "type": "list",
+            "items": [
+                "Acryl Madness - Before Neon\n  // MD, Comp, Ltd",
+                "Acryl Madness, Starfounder - Lips \\ Steel\n  // MD, Album, Ltd, Ran",
+                "Billy Cobb - Zerwee, Pt. 2\n  // MD, Album, Comp",
+                "Coaltar Of The Deepers - Revenge Of The Visitors\n  // MD, Album",
+                "GORS - Cosmopolitan\n  // MD, Album",
+                "Iversen - La Favi\u00e8re\n  // MD, EP, Ltd",
+                "Orax - Love Kills The Demon\n  // MD, Album",
+                "ThorHighHeels - POSITIVE YELLOW DX\n  // MD, Album, Ltd",
+                "Timecop1983 - Faded Touch\n  // MD, Album, Ltd",
+                "Various - FutureSounds Volume 4\n  // 2xMD, Comp",
+                "Various - Stationary Play\n  // MD, Comp, Ltd",
+                "\u3066\u3093\u304d\u3088\u307b\u3046 - \u305c\u3093\u3053\u304f\u306e\u3066\u3093\u304d\n  // MD, EP"
+            ]
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/records/"
+        }
+    ]
+}

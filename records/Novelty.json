@@ -1,0 +1,18 @@
+{
+    "format": "particle",
+    "title": "Novelty",
+    "content": [
+        {
+            "type": "list",
+            "items": [
+                "2Minute Minor - We Hate 2Minute Minor\n  // Lathe, 1\", Single, Ltd, Num",
+                "Ayane Fukumi - Nya\n  // Floppy, MP3, Single, Mono, Ltd, 128"
+            ]
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/records/"
+        }
+    ]
+}

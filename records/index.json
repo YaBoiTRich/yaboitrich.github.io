@@ -1,0 +1,43 @@
+{
+    "format": "particle",
+    "title": "RECORDS",
+    "content": [
+        {
+            "type": "paragraph",
+            "text": "Take a GANDER",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "CD",
+            "action": "/records/CD"
+        },
+        {
+            "type": "button",
+            "label": "Cassette",
+            "action": "/records/Cassette"
+        },
+        {
+            "type": "button",
+            "label": "Laserdisc",
+            "action": "/records/Laserdisc"
+        },
+        {
+            "type": "button",
+            "label": "MiniDisc",
+            "action": "/records/MiniDisc"
+        },
+        {
+            "type": "button",
+            "label": "Novelty",
+            "action": "/records/Novelty"
+        },
+        {
+            "type": "button",
+            "label": "Vinyl",
+            "action": "/records/Vinyl"
+        }
+    ]
+}
