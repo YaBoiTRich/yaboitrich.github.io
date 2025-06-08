@@ -60,7 +60,8 @@
 		},
 		{
 			"type": "button",
-			"label": "I want to click this button and have nothing happen"
+			"label": "I wanna click this and have nothing happen",
+			"action": "."
 		}
 	]
 }
