@@ -1,0 +1,24 @@
+
+{
+	"format": "particle",
+	"title": "Why",
+	"content": [
+		{
+			"type": "paragraph",
+			"text": "*Why do you hate me?*",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "button",
+			"label": "Please look",
+			"action": "/puzzles/"
+		},
+		{
+			"type": "button",
+			"label": "No",
+			"action": "/so_mean"
+		}
+	]
+}

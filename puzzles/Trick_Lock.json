@@ -1,0 +1,40 @@
+{
+    "format": "particle",
+    "title": "Trick Lock",
+    "content": [
+        {
+            "type": "list",
+            "items": [
+                "Ant Hunt by Boaz Feldman (prod. Boaz Feldman)",
+                "B-Lock by Boaz Feldman (prod. Boaz Feldman)",
+                "B-Lock II by Boaz Feldman (prod. Boaz Feldman)",
+                "Burgh Lock by Splinter J. Spierenburgh (prod. MFave)",
+                "Combo Breaker by Jared Petersen (prod. Jared Petersen)",
+                "DanLock by Dan Feldman (prod. Boaz Feldman)",
+                "Easy Peasy by Sashko Peshevski (prod. Sashko Peshevski)",
+                "Enter If You Can (Locked Edition) by Shane Hales (prod. Pelikan)",
+                "FunLock by Boaz Feldman (prod. Boaz Feldman)",
+                "Her Key to the Treasure by Sashko Peshevski (prod. Sashko Peshevski)",
+                "Hokey Cokey by Ali Morris, Steve Nicholls (prod. Ali Morris, Steve Nicholls)",
+                "HoKey PoKey by Ali Morris, Steve Nicholls (prod. Ali Morris, Steve Nicholls)",
+                "Lock Out by Andrew Coles (prod. Andrew Coles)",
+                "Loco Lock by Boaz Feldman (prod. Boaz Feldman)",
+                "Loki by Boaz Feldman (prod. Boaz Feldman)",
+                "Loophole by Boaz Feldman (prod. Boaz Feldman)",
+                "Mind the Gap by Andrew Coles (prod. Andrew Coles)",
+                "Monoblock by Sashko Peshevski (prod. Sashko Peshevski)",
+                "PicoLock by Boaz Feldman (prod. Boaz Feldman)",
+                "Pooplock by Mickael Simonetto (prod. Mickael Simonetto)",
+                "Revenge Lock (AKA The Wanderer) by Wil Strijbos (prod. Wil Strijbos)",
+                "Simple Lock 1 by Benjamin Baley (prod. Benjamin Baley)",
+                "Simple Lock 2 by Benjamin Baley (prod. Benjamin Baley)",
+                "Titan's Treasure by Sashko Peshevski (prod. Sashko Peshevski)"
+            ]
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/puzzles/"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "format": "particle",
+    "title": "Disassembly",
+    "content": [
+        {
+            "type": "list",
+            "items": [
+                "369 by Laurence (CreativeWorkshopCA) (prod. Laurence (CreativeWorkshopCA))",
+                "Aluminum First Cross by Wil Strijbos (prod. Wil Strijbos)",
+                "Aluminum First Cylinder by Wil Strijbos (prod. Wil Strijbos)",
+                "Amethyst by Jared Petersen (prod. Jared Petersen)",
+                "Barrel Take Apart by Andriy Bruns (prod. Andriy Bruns)",
+                "Bishop (Gold) by Marcel Gillen (prod. Hanayama)",
+                "Candy Corn by Jared Petersen (prod. Jared Petersen)",
+                "Diamond by Jared Petersen (prod. Jared Petersen)",
+                "Double Tumbler by Jon Keegan (prod. Jon Keegan)",
+                "Dovetail Apple by Wil Strijbos (prod. Wil Strijbos)",
+                "Feuerzeug (Lighter) by Roger D (prod. Roger D)",
+                "Geburt/Birth (Robot) by Roger D (prod. Roger D)",
+                "Hip Flask by Felix Ure (prod. Felix Ure)",
+                "KeyRing by Naoyuki Iwase (Osho) (prod. Matthew Williams)",
+                "King (Gold) by Marcel Gillen (prod. Hanayama)",
+                "Knight (Gold) by Marcel Gillen (prod. Hanayama)",
+                "Machinist's Stash (AKA fire plug) by Marcel Gillen (prod. Andriy Bruns)",
+                "Mysterious Orb by Sunmark (prod. Sunmark)",
+                "OurGlass by Garrett Mathias (prod. Garrett Mathias)",
+                "Pawn (Gold) by Marcel Gillen (prod. Hanayama)",
+                "Pearl by Jared Petersen (prod. Jared Petersen)",
+                "Plug-Stecker by Roger D (prod. Roger D)",
+                "Pyrigan Model #357 by John Partridge (prod. John Partridge)",
+                "Queen (Gold) by Marcel Gillen (prod. Hanayama)",
+                "Rook (Gold) by Marcel Gillen (prod. Hanayama)",
+                "Ruby by Jared Petersen (prod. Jared Petersen)",
+                "Sapphire by Jared Petersen (prod. Jared Petersen)",
+                "Screwball by Jared Petersen (prod. Jared Petersen)",
+                "Sticky Barrel by Phil Wigfield (prod. Eric Fuller)",
+                "Sweta Cross by Wil Strijbos (prod. Wil Strijbos)",
+                "Symmetrical Cross by Gerard Hudson (prod. Gerard Hudson)",
+                "Titan Sphere by Felix Ure (prod. Felix Ure)",
+                "Tumbler by Jon Keegan (prod. Jon Keegan)",
+                "Undercover by Phil Wigfield (prod. Phil Wigfield)",
+                "Virus Money Puzzle by TruePointDesign (prod. TruePointDesign)"
+            ]
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/puzzles/"
+        }
+    ]
+}

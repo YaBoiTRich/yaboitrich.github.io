@@ -1,0 +1,26 @@
+{
+    "format": "particle",
+    "title": "Sequential Movement",
+    "content": [
+        {
+            "type": "list",
+            "items": [
+                "Dial It In by Jared Petersen (prod. Jared Petersen)",
+                "Growl Box by Andrew Parr (prod. Andrew Parr)",
+                "Hexabox by Bruno Hemon (prod. Bruno Hemon)",
+                "Hugo The Hippo by Yananose Junichi (prod. Yananose Junichi)",
+                "Moonage by Stephan Baumegger (prod. Stephan Baumegger)",
+                "New Secret Box IV by Karakuri Creation Group (prod. Karakuri Creation Group)",
+                "Propeller by Roger D (prod. Roger D)",
+                "Shl\u00fcssel by Roger D (prod. Roger D)",
+                "USB Puzzle by Luke Waier (prod. Luke Waier)",
+                "Wasserhahn by Roger D (prod. Roger D)"
+            ]
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/puzzles/"
+        }
+    ]
+}

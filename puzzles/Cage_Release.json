@@ -1,0 +1,18 @@
+{
+    "format": "particle",
+    "title": "Cage Release",
+    "content": [
+        {
+            "type": "list",
+            "items": [
+                "Hexahog by Rademic (prod. Rademic)",
+                "Pandemic Puzzle by John Adrian (prod. John Adrian)"
+            ]
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/puzzles/"
+        }
+    ]
+}

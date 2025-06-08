@@ -1,0 +1,33 @@
+{
+    "format": "particle",
+    "title": "2D Packing (Restricted)",
+    "content": [
+        {
+            "type": "list",
+            "items": [
+                "23 by Tye Stahly (prod. Tye Stahly)",
+                "3Lx2 by Koichi Miura (prod. Mineyuki Uyematsu)",
+                "Airlock by Goh Pit Khiam (prod. Pelikan )",
+                "Blade 9 by Ryan Sinatra (prod. Ryan Sinatra)",
+                "Centrifuge by Lucie Pauwels (prod. Pelikan)",
+                "Daltonium [Dt] (Pink) by Jared Petersen (prod. Jared Petersen)",
+                "Edisonium [Ed] (Purple) by Jared Petersen (prod. Jared Petersen)",
+                "Flat Minima by Frederic Boucher (prod. Tye Stahly)",
+                "HoHoHo by Haym Hirsh (prod. Tye Stahly)",
+                "Krypton [Kr] (Green) by Jared Petersen (prod. Jared Petersen)",
+                "Lixy's Puzzle Deck by Lixy Yamada (prod. Rex Rossano Perez)",
+                "MPD Packer by Me! (prod. Me!)",
+                "Perfect Entrance (O&L) by Koichi Miura (prod. Mineyuki Uyematsu)",
+                "Ramson [Rs] (Red) by Jared Petersen (prod. Jared Petersen)",
+                "Seven Samurai by Christoph Lohe (prod. Tye Stahly)",
+                "Thulium [Tm] (Blue) by Jared Petersen (prod. Jared Petersen)",
+                "Xenium [Xn] (Orange) by Jared Petersen (prod. Jared Petersen)"
+            ]
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/puzzles/"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "format": "particle",
+    "title": "TIC",
+    "content": [
+        {
+            "type": "list",
+            "items": [
+                "3 KingsTIC by Andrew Crowell (prod. Me!)",
+                "BioTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "Chaotic (Woodfill) by Andrew Crowell (prod. Andrew Crowell)",
+                "Cryptic by Andrew Crowell (prod. Andrew Crowell)",
+                "ECC Var. by Christoph Lohe (prod. Andrew Crowell)",
+                "ECTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "ElfTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "FantasTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "GalacTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "GeneTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "Gigantic (Woodfill) by Andrew Crowell (prod. Andrew Crowell)",
+                "HECTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "HypnoTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "Irritating Wife by Ken Irvine (prod. Unknown)",
+                "LocomoTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "LunaTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "Magellentic by Andrew Crowell (prod. Andrew Crowell)",
+                "Matador by Ken Irvine (prod. Unknown)",
+                "Migraine by Ken Irvine (prod. Unknown)",
+                "MysTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "NeuroTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "NVC Var. by Christoph Lohe (prod. Andrew Crowell)",
+                "PackTIC 1 by Andrew Crowell (prod. Andrew Crowell)",
+                "PackTIC 2 by Andrew Crowell (prod. Andrew Crowell)",
+                "PackTIC 3 by Andrew Crowell (prod. Andrew Crowell)",
+                "PedanTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "Raftic (Woodfill) by Andrew Crowell (prod. Andrew Crowell)",
+                "RIEC by Andrew Crowell (prod. Andrew Crowell)",
+                "Rotator by Tom Jolly (prod. Tom Jolly)",
+                "SkepTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "Spiral Cube #2 by Tom Jolly (prod. Tom Jolly)",
+                "Threaded Cube 1 by Tom Jolly (prod. Unknown)",
+                "Threaded Cube 2 by Tom Jolly (prod. Unknown)",
+                "ThreeTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "TriadTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "TripleTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "TriTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "TriumviraTIC by Andrew Crowell (prod. Andrew Crowell)",
+                "TwisTIC by Andrew Crowell (prod. Andrew Crowell)"
+            ]
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/puzzles/"
+        }
+    ]
+}

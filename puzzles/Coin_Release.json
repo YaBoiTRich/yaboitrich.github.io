@@ -1,0 +1,39 @@
+{
+    "format": "particle",
+    "title": "Coin Release",
+    "content": [
+        {
+            "type": "list",
+            "items": [
+                "Bermuda Triangle by Mineyuki Uyematsu (prod. Mineyuki Uyematsu)",
+                "Bitcoin Maze Puzzle #1 by Robrecht Louage (prod. Michel van Ipenburg)",
+                "Bitcoin Maze Puzzle #2 by Robrecht Louage (prod. Michel van Ipenburg)",
+                "Bitcoin Maze Puzzle #3 by Robrecht Louage (prod. Michel van Ipenburg)",
+                "Bitcoin Maze Puzzle #4 by Robrecht Louage (prod. Michel van Ipenburg)",
+                "Bitcoin Maze Puzzle #5 by Robrecht Louage (prod. Michel van Ipenburg)",
+                "Bitcoin Maze Puzzle #6 by Robrecht Louage (prod. Michel van Ipenburg)",
+                "Cop Out 1 by Alan Lunsford (prod. Alan Lunsford)",
+                "Cop Out 2 by Alan Lunsford (prod. Alan Lunsford)",
+                "Cop Out 3 by Alan Lunsford (prod. Alan Lunsford)",
+                "FengHuang Type-I by Mineyuki Uyematsu (prod. Mineyuki Uyematsu)",
+                "FengHuang Type-II by Mineyuki Uyematsu (prod. Mineyuki Uyematsu)",
+                "Free Me 7 by Joseph Turner (prod. Joseph Turner)",
+                "Hard-Boiled Coin FengHuang 2022 by Mineyuki Uyematsu (prod. Mineyuki Uyematsu)",
+                "Lucky Sixpence by Mineyuki Uyematsu (prod. Mineyuki Uyematsu)",
+                "Minima Coinma by Frederic Boucher, \"Anderson \"\"Andee\"\" Tao\" (prod. Anderson \"Andee\" Tao)",
+                "Pocket Change Orange by Brian Piker (prod. Brian Piker)",
+                "Pocket Change Red by Brian Piker (prod. Brian Piker)",
+                "Pocket Change Yellow by Brian Piker (prod. Brian Piker)",
+                "Take10 (Circle) by Naoyuki Iwase (Osho) (prod. Tye Stahly)",
+                "Take10 (Square) by Naoyuki Iwase (Osho) (prod. Tye Stahly)",
+                "Tinder Box by Jared Petersen (prod. Jared Petersen)",
+                "Wedding Puzzle by Brian Piker (prod. Brian Piker)"
+            ]
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/puzzles/"
+        }
+    ]
+}

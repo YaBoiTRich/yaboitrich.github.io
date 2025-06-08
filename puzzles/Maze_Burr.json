@@ -1,0 +1,23 @@
+{
+    "format": "particle",
+    "title": "Maze Burr",
+    "content": [
+        {
+            "type": "list",
+            "items": [
+                "Maze Burr by Kagen Sound (prod. Tom Lensch)",
+                "Piston Box by Lee Krasnow (prod. Lee Krasnow)",
+                "Piston Box Maze Kit (Purple) by Lee Krasnow (prod. Lee Krasnow)",
+                "Rhombic Maze Burr by Derek Bosch (prod. Ali Morris, Steve Nicholls)",
+                "Rhombic Maze Burr by Derek Bosch (prod. Trifcho)",
+                "Rune Cube by Kagen Sound (prod. Kagen Sound)",
+                "Split Maze Burr by Derek Bosch (prod. Eric Fuller)"
+            ]
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/puzzles/"
+        }
+    ]
+}

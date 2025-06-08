@@ -1,0 +1,20 @@
+{
+    "format": "particle",
+    "title": "Puzzle Box",
+    "content": [
+        {
+            "type": "list",
+            "items": [
+                "Granny's Huckleberry Tea Box (#9) by Kelly Snache (prod. Kelly Snache)",
+                "Santa's Workshop (#7) by Kelly Snache (prod. Kelly Snache)",
+                "Solitary Confinement by Jared Petersen (prod. Jared Petersen)",
+                "Time Capsule - Dragon Box by Laurence (CreativeWorkshopCA) (prod. Laurence (CreativeWorkshopCA))"
+            ]
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/puzzles/"
+        }
+    ]
+}

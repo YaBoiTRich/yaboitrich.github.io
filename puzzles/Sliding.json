@@ -1,0 +1,17 @@
+{
+    "format": "particle",
+    "title": "Sliding",
+    "content": [
+        {
+            "type": "list",
+            "items": [
+                "Juno's Arrow by Yananose Junichi (prod. Yananose Junichi)"
+            ]
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/puzzles/"
+        }
+    ]
+}

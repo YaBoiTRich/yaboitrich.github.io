@@ -1,0 +1,17 @@
+{
+    "format": "particle",
+    "title": "Furniture",
+    "content": [
+        {
+            "type": "list",
+            "items": [
+                "Mantel Clock by Bill Sheckels (prod. Bill Sheckels)"
+            ]
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/puzzles/"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "format": "particle",
+    "title": "Maze",
+    "content": [
+        {
+            "type": "list",
+            "items": [
+                "1 Euro Labyrinth by Robrecht Louage (prod. Robrecht Louage)",
+                "A:MAZE by Abhishek Ruikar (prod. Abhishek Ruikar)",
+                "B:MAZE by Abhishek Ruikar (prod. Abhishek Ruikar)",
+                "Boston Subway by Oskar van Deventer (prod. Eric Fuller)",
+                "Cluster by Andriy Bruns (prod. Andriy Bruns)",
+                "Coin Maze by Mineyuki Uyematsu (prod. Mineyuki Uyematsu)",
+                "Crossroads Deluxe by Brian Piker (prod. Brian Piker)",
+                "Dual Meanders by Yananose Junichi (prod. Yananose Junichi)",
+                "Escape From Alcatraz by Robrecht Louage (prod. Robrecht Louage)",
+                "FastMaze 0 by Dan Fast (prod. CubicDissection)",
+                "FastMaze 1 by Dan Fast (prod. Eric Fuller)",
+                "FastMaze 2 by Dan Fast (prod. Eric Fuller)",
+                "FastMaze 3 by Dan Fast (prod. Eric Fuller)",
+                "Florglad's Folly by Ryan Sinatra, Florglad (prod. Ryan Sinatra)",
+                "Glass Puzzle Box by Benno de Grote (prod. Eric Fuller)",
+                "Remove The Yolk by Robrecht Louage (prod. Robrecht Louage)",
+                "Segmented Maze by Benno Baatsen (prod. Eric Fuller)",
+                "Unluck 4 by Rex Rossano Perez (prod. Rex Rossano Perez)"
+            ]
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/puzzles/"
+        }
+    ]
+}

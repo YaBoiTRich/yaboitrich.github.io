@@ -1,0 +1,163 @@
+{
+    "format": "particle",
+    "title": "PUZZLES",
+    "content": [
+        {
+            "type": "paragraph",
+            "text": "Take a GANDER",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "(Dis)assembly",
+            "action": "/puzzles/Disassembly"
+        },
+        {
+            "type": "button",
+            "label": "(Un)packing",
+            "action": "/puzzles/Unpacking"
+        },
+        {
+            "type": "button",
+            "label": "2D Cover Up",
+            "action": "/puzzles/2D_Cover_Up"
+        },
+        {
+            "type": "button",
+            "label": "2D Packing (Restricted)",
+            "action": "/puzzles/2D_Packing_Restricted"
+        },
+        {
+            "type": "button",
+            "label": "2D Packing (Unrestricted)",
+            "action": "/puzzles/2D_Packing_Unrestricted"
+        },
+        {
+            "type": "button",
+            "label": "Assembly",
+            "action": "/puzzles/Assembly"
+        },
+        {
+            "type": "button",
+            "label": "Blind Maze",
+            "action": "/puzzles/Blind_Maze"
+        },
+        {
+            "type": "button",
+            "label": "Burr",
+            "action": "/puzzles/Burr"
+        },
+        {
+            "type": "button",
+            "label": "Cage Release",
+            "action": "/puzzles/Cage_Release"
+        },
+        {
+            "type": "button",
+            "label": "Coin Release",
+            "action": "/puzzles/Coin_Release"
+        },
+        {
+            "type": "button",
+            "label": "Dexterity",
+            "action": "/puzzles/Dexterity"
+        },
+        {
+            "type": "button",
+            "label": "Disassembly",
+            "action": "/puzzles/Disassembly"
+        },
+        {
+            "type": "button",
+            "label": "Escape Room",
+            "action": "/puzzles/Escape_Room"
+        },
+        {
+            "type": "button",
+            "label": "Furniture",
+            "action": "/puzzles/Furniture"
+        },
+        {
+            "type": "button",
+            "label": "Jigsaw",
+            "action": "/puzzles/Jigsaw"
+        },
+        {
+            "type": "button",
+            "label": "Karakuri",
+            "action": "/puzzles/Karakuri"
+        },
+        {
+            "type": "button",
+            "label": "Maze",
+            "action": "/puzzles/Maze"
+        },
+        {
+            "type": "button",
+            "label": "Maze Burr",
+            "action": "/puzzles/Maze_Burr"
+        },
+        {
+            "type": "button",
+            "label": "Packing (Restricted)",
+            "action": "/puzzles/Packing_Restricted"
+        },
+        {
+            "type": "button",
+            "label": "Packing (Unrestricted)",
+            "action": "/puzzles/Packing_Unrestricted"
+        },
+        {
+            "type": "button",
+            "label": "Puzzle Box",
+            "action": "/puzzles/Puzzle_Box"
+        },
+        {
+            "type": "button",
+            "label": "Sculpture",
+            "action": "/puzzles/Sculpture"
+        },
+        {
+            "type": "button",
+            "label": "Sequential Discovery",
+            "action": "/puzzles/Sequential_Discovery"
+        },
+        {
+            "type": "button",
+            "label": "Sequential Movement",
+            "action": "/puzzles/Sequential_Movement"
+        },
+        {
+            "type": "button",
+            "label": "Sliding",
+            "action": "/puzzles/Sliding"
+        },
+        {
+            "type": "button",
+            "label": "Symmetry",
+            "action": "/puzzles/Symmetry"
+        },
+        {
+            "type": "button",
+            "label": "TIC",
+            "action": "/puzzles/TIC"
+        },
+        {
+            "type": "button",
+            "label": "Trick Bolt",
+            "action": "/puzzles/Trick_Bolt"
+        },
+        {
+            "type": "button",
+            "label": "Trick Box",
+            "action": "/puzzles/Trick_Box"
+        },
+        {
+            "type": "button",
+            "label": "Trick Lock",
+            "action": "/puzzles/Trick_Lock"
+        }
+    ]
+}

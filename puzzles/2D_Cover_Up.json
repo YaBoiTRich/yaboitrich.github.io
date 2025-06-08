@@ -1,0 +1,17 @@
+{
+    "format": "particle",
+    "title": "2D Cover Up",
+    "content": [
+        {
+            "type": "list",
+            "items": [
+                "Sumo Cover Up by Michael Dowle (prod. Steve Nicholls)"
+            ]
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/puzzles/"
+        }
+    ]
+}

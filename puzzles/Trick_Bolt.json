@@ -1,0 +1,20 @@
+{
+    "format": "particle",
+    "title": "Trick Bolt",
+    "content": [
+        {
+            "type": "list",
+            "items": [
+                "A Bolt from the Blue by Ali Morris, Steve Nicholls (prod. Ali Morris, Steve Nicholls)",
+                "Nipple Bolt by Wil Strijbos (prod. Wil Strijbos)",
+                "Trick Bolt Mini by Puzzle Master (prod. Puzzle Master)",
+                "Trick Bolt Mini with Zipper by Puzzle Master (prod. Puzzle Master)"
+            ]
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/puzzles/"
+        }
+    ]
+}
