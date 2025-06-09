@@ -52,15 +52,6 @@ def get_record_sets_by_type(data):
     artist_field = 1
     album_field = 2
 
-    # def match_type(string):
-    #
-    #     match = re.search(r"^[^\s]{2,}", string)
-    #     if match:
-    #         matched_type = match.group().rstrip(",")
-    #         matched_type = matched_type.replace('"', ' Inch')
-    #         matched_type = matched_type.replace('12 Inch', 'LP')
-    #         return matched_type
-
     types = []
     for row in data:
         matched_type = match_concise_format(row[type_field])

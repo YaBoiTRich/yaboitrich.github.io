@@ -1,5 +1,3 @@
-
-
 def get_puzzle_sets_by_type(data):
     type_field = 3
     name_field = 0

@@ -1,11 +1,9 @@
+import csv
 import json
 import re
-import csv
 
 from process_puzzles import get_puzzle_sets_by_type
 from process_records import get_record_sets_by_type
-
-# from pprint import pprint
 
 
 def process_collection_type(collection_type):
@@ -35,8 +33,6 @@ def process_collection_type(collection_type):
     # Sort by secondary column first, then primary (because sort is stable)
     for sort in sort_order:
         data.sort(key=lambda row: str.lower(row[sort]))
-
-    # rows = [row for row in data]
 
     if collection_type == "puzzles":
         type_sets = get_puzzle_sets_by_type(data)
@@ -68,9 +64,6 @@ def process_collection_type(collection_type):
     )
 
     for item_type, items in collection_formatted.items():
-        # item_type_file_name = ""
-        # if collection_type == "puzzles":
-        #
         item_type_file_name = re.sub(r"[\(\)]", "", item_type)
         item_type_file_name = re.sub(r"[^\w]", "_", item_type_file_name)
 
