@@ -87,9 +87,11 @@ def process_collection_type(collection_type):
             "content": [],
         }
 
-        item_type_index_json["content"].append(
-            {"type": "paragraph", "text": "\n".join(["- " + item for item in items])}
-        )
+        # Process chunks of 50
+        for num in range(0, len(items), 50):
+            item_type_index_json["content"].append(
+                {"type": "paragraph", "text": "\n".join(["- " + item for item in items[num:num+50]])}
+            )
 
         item_type_index_json["content"].append(
             {"type": "button", "label": "Back", "action": f"/{collection_type}/"}
