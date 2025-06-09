@@ -3,16 +3,8 @@
     "title": "Symmetry",
     "content": [
         {
-            "type": "list",
-            "items": [
-                "Aliens by Tyler Hudson (prod. Tye Stahly)",
-                "Heroics by George Sicherman (prod. Tye Stahly)",
-                "Polyomino Progression by Tyler Hudson (prod. Tye Stahly)",
-                "Polyomino Progression by Tyler Hudson (prod. Tye Stahly)",
-                "Texas Buzzards by George Sicherman (prod. Tye Stahly)",
-                "Texas Termites by George Sicherman (prod. Tye Stahly)",
-                "Texas Trout by George Sicherman (prod. Tye Stahly)"
-            ]
+            "type": "paragraph",
+            "text": "- Aliens by Tyler Hudson (prod. Tye Stahly)\n- Heroics by George Sicherman (prod. Tye Stahly)\n- Polyomino Progression by Tyler Hudson (prod. Tye Stahly)\n- Polyomino Progression by Tyler Hudson (prod. Tye Stahly)\n- Texas Buzzards by George Sicherman (prod. Tye Stahly)\n- Texas Termites by George Sicherman (prod. Tye Stahly)\n- Texas Trout by George Sicherman (prod. Tye Stahly)"
         },
         {
             "type": "button",

@@ -3,27 +3,8 @@
     "title": "Maze",
     "content": [
         {
-            "type": "list",
-            "items": [
-                "1 Euro Labyrinth by Robrecht Louage (prod. Robrecht Louage)",
-                "A:MAZE by Abhishek Ruikar (prod. Abhishek Ruikar)",
-                "B:MAZE by Abhishek Ruikar (prod. Abhishek Ruikar)",
-                "Boston Subway by Oskar van Deventer (prod. Eric Fuller)",
-                "Cluster by Andriy Bruns (prod. Andriy Bruns)",
-                "Coin Maze by Mineyuki Uyematsu (prod. Mineyuki Uyematsu)",
-                "Crossroads Deluxe by Brian Piker (prod. Brian Piker)",
-                "Dual Meanders by Yananose Junichi (prod. Yananose Junichi)",
-                "Escape From Alcatraz by Robrecht Louage (prod. Robrecht Louage)",
-                "FastMaze 0 by Dan Fast (prod. CubicDissection)",
-                "FastMaze 1 by Dan Fast (prod. Eric Fuller)",
-                "FastMaze 2 by Dan Fast (prod. Eric Fuller)",
-                "FastMaze 3 by Dan Fast (prod. Eric Fuller)",
-                "Florglad's Folly by Ryan Sinatra, Florglad (prod. Ryan Sinatra)",
-                "Glass Puzzle Box by Benno de Grote (prod. Eric Fuller)",
-                "Remove The Yolk by Robrecht Louage (prod. Robrecht Louage)",
-                "Segmented Maze by Benno Baatsen (prod. Eric Fuller)",
-                "Unluck 4 by Rex Rossano Perez (prod. Rex Rossano Perez)"
-            ]
+            "type": "paragraph",
+            "text": "- 1 Euro Labyrinth by Robrecht Louage (prod. Robrecht Louage)\n- A:MAZE by Abhishek Ruikar (prod. Abhishek Ruikar)\n- B:MAZE by Abhishek Ruikar (prod. Abhishek Ruikar)\n- Boston Subway by Oskar van Deventer (prod. Eric Fuller)\n- Cluster by Andriy Bruns (prod. Andriy Bruns)\n- Coin Maze by Mineyuki Uyematsu (prod. Mineyuki Uyematsu)\n- Crossroads Deluxe by Brian Piker (prod. Brian Piker)\n- Dual Meanders by Yananose Junichi (prod. Yananose Junichi)\n- Escape From Alcatraz by Robrecht Louage (prod. Robrecht Louage)\n- FastMaze 0 by Dan Fast (prod. CubicDissection)\n- FastMaze 1 by Dan Fast (prod. Eric Fuller)\n- FastMaze 2 by Dan Fast (prod. Eric Fuller)\n- FastMaze 3 by Dan Fast (prod. Eric Fuller)\n- Florglad's Folly by Ryan Sinatra, Florglad (prod. Ryan Sinatra)\n- Glass Puzzle Box by Benno de Grote (prod. Eric Fuller)\n- Remove The Yolk by Robrecht Louage (prod. Robrecht Louage)\n- Segmented Maze by Benno Baatsen (prod. Eric Fuller)\n- Unluck 4 by Rex Rossano Perez (prod. Rex Rossano Perez)"
         },
         {
             "type": "button",

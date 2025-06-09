@@ -3,19 +3,8 @@
     "title": "Blind Maze",
     "content": [
         {
-            "type": "list",
-            "items": [
-                "5-layer 3D-printed matryoshka blind labyrinth by Unknown (prod. DimensionsonDemand)",
-                "Blue by Chris Pitt (prod. Revomaze)",
-                "Bronze by Chris Pitt (prod. Revomaze)",
-                "Card Case by Yananose Junichi (prod. Yananose Junichi)",
-                "Inside 3 Phantom Awful by Inside3 (prod. Inside3)",
-                "Inside 3 Phantom Mean by Inside3 (prod. Inside3)",
-                "Lime V3 by Chris Pitt (prod. Revomaze)",
-                "RC Ball by Tyler Williams (prod. Tyler Williams)",
-                "Swiss Cheese and Grape by Bruno Hemon (prod. Bruno Hemon)",
-                "Turquoise V3 by Chris Pitt (prod. Revomaze)"
-            ]
+            "type": "paragraph",
+            "text": "- 5-layer 3D-printed matryoshka blind labyrinth by Unknown (prod. DimensionsonDemand)\n- Blue by Chris Pitt (prod. Revomaze)\n- Bronze by Chris Pitt (prod. Revomaze)\n- Card Case by Yananose Junichi (prod. Yananose Junichi)\n- Inside 3 Phantom Awful by Inside3 (prod. Inside3)\n- Inside 3 Phantom Mean by Inside3 (prod. Inside3)\n- Lime V3 by Chris Pitt (prod. Revomaze)\n- RC Ball by Tyler Williams (prod. Tyler Williams)\n- Swiss Cheese and Grape by Bruno Hemon (prod. Bruno Hemon)\n- Turquoise V3 by Chris Pitt (prod. Revomaze)"
         },
         {
             "type": "button",

@@ -3,10 +3,8 @@
     "title": "Escape Room",
     "content": [
         {
-            "type": "list",
-            "items": [
-                "Lost Vault of Jesse James by Jesse Born (prod. Jesse Born)"
-            ]
+            "type": "paragraph",
+            "text": "- Lost Vault of Jesse James by Jesse Born (prod. Jesse Born)"
         },
         {
             "type": "button",

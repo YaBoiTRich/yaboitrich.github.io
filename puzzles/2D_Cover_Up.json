@@ -3,10 +3,8 @@
     "title": "2D Cover Up",
     "content": [
         {
-            "type": "list",
-            "items": [
-                "Sumo Cover Up by Michael Dowle (prod. Steve Nicholls)"
-            ]
+            "type": "paragraph",
+            "text": "- Sumo Cover Up by Michael Dowle (prod. Steve Nicholls)"
         },
         {
             "type": "button",

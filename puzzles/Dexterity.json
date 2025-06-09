@@ -3,15 +3,8 @@
     "title": "Dexterity",
     "content": [
         {
-            "type": "list",
-            "items": [
-                "Capital Politics by Keith Winegar (prod. Keith Winegar)",
-                "Get Up by Jacques Zeimet  (prod. Jacques Zeimet)",
-                "Top the Tree by Jared Petersen (prod. Jared Petersen)",
-                "Unstable Eggs 1 by Jared Petersen (prod. Jared Petersen)",
-                "Unstable Eggs 2 by Jared Petersen (prod. Jared Petersen)",
-                "Unstable Eggs 3 by Jared Petersen (prod. Jared Petersen)"
-            ]
+            "type": "paragraph",
+            "text": "- Capital Politics by Keith Winegar (prod. Keith Winegar)\n- Get Up by Jacques Zeimet  (prod. Jacques Zeimet)\n- Top the Tree by Jared Petersen (prod. Jared Petersen)\n- Unstable Eggs 1 by Jared Petersen (prod. Jared Petersen)\n- Unstable Eggs 2 by Jared Petersen (prod. Jared Petersen)\n- Unstable Eggs 3 by Jared Petersen (prod. Jared Petersen)"
         },
         {
             "type": "button",

@@ -3,14 +3,8 @@
     "title": "Sculpture",
     "content": [
         {
-            "type": "list",
-            "items": [
-                "Maria de la O Pendant by Miguel Berrocal (prod. Miguel Berrocal)",
-                "Portrait de Michelle by Miguel Berrocal (prod. Miguel Berrocal)",
-                "Portrait de Michelle Pendant by Miguel Berrocal (prod. Miguel Berrocal)",
-                "Statue of David Pendant by Miguel Berrocal (prod. Miguel Berrocal)",
-                "Statue of David Pendant (Second) by Miguel Berrocal (prod. Miguel Berrocal)"
-            ]
+            "type": "paragraph",
+            "text": "- Maria de la O Pendant by Miguel Berrocal (prod. Miguel Berrocal)\n- Portrait de Michelle by Miguel Berrocal (prod. Miguel Berrocal)\n- Portrait de Michelle Pendant by Miguel Berrocal (prod. Miguel Berrocal)\n- Statue of David Pendant by Miguel Berrocal (prod. Miguel Berrocal)\n- Statue of David Pendant (Second) by Miguel Berrocal (prod. Miguel Berrocal)"
         },
         {
             "type": "button",

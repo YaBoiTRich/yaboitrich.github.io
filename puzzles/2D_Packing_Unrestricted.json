@@ -3,31 +3,8 @@
     "title": "2D Packing (Unrestricted)",
     "content": [
         {
-            "type": "list",
-            "items": [
-                "10 of Diamonds by Laszlo Molnar (prod. Mr. Puzzle)",
-                "8Cat by Jigsawholic (prod. Jigsawholic)",
-                "Bird 11 by Yuu Asaka (prod. Yuu Asaka)",
-                "Broken Heart by Jigsawholic (prod. Jigsawholic)",
-                "Calendar by Bradley Ramsey (prod. Bradley Ramsey)",
-                "Clouds by Abhishek Ruikar (prod. Abhishek Ruikar)",
-                "Echo 4 by Yuu Asaka (prod. Yuu Asaka)",
-                "Happy Pills by Ryan Sinatra (prod. Ryan Sinatra)",
-                "HoHoHo 2 by Haym Hirsh (prod. Tye Stahly)",
-                "HoHoHo 2 (Second Copy) by Haym Hirsh (prod. Tye Stahly)",
-                "Jigsaw P9 by Mineyuki Uyematsu (prod. Mineyuki Uyematsu)",
-                "Martian Diamond by George Sicherman (prod. Mr. Puzzle)",
-                "Meiji Dark Chocolate by Hanayama (prod. Hanayama)",
-                "Meiji Milk Chocolate by Hanayama (prod. Hanayama)",
-                "Oleo 10 by Yuu Asaka (prod. Yuu Asaka)",
-                "Puzzle of Evil by hairyfacedhooman (prod. Unknown)",
-                "Snowflake by Abhishek Ruikar (prod. Abhishek Ruikar)",
-                "Sorry by Rex Rossano Perez (prod. Rex Rossano Perez)",
-                "Stocking Stuffer by Jared Petersen (prod. Jared Petersen)",
-                "Team JB by Unknown (prod. Unknown)",
-                "Trivial by Goh Pit Khiam (prod. Brian Menold)",
-                "Ugly4 by Jigsawholic (prod. Jigsawholic)"
-            ]
+            "type": "paragraph",
+            "text": "- 10 of Diamonds by Laszlo Molnar (prod. Mr. Puzzle)\n- 8Cat by Jigsawholic (prod. Jigsawholic)\n- Bird 11 by Yuu Asaka (prod. Yuu Asaka)\n- Broken Heart by Jigsawholic (prod. Jigsawholic)\n- Calendar by Bradley Ramsey (prod. Bradley Ramsey)\n- Clouds by Abhishek Ruikar (prod. Abhishek Ruikar)\n- Echo 4 by Yuu Asaka (prod. Yuu Asaka)\n- Happy Pills by Ryan Sinatra (prod. Ryan Sinatra)\n- HoHoHo 2 by Haym Hirsh (prod. Tye Stahly)\n- HoHoHo 2 (Second Copy) by Haym Hirsh (prod. Tye Stahly)\n- Jigsaw P9 by Mineyuki Uyematsu (prod. Mineyuki Uyematsu)\n- Martian Diamond by George Sicherman (prod. Mr. Puzzle)\n- Meiji Dark Chocolate by Hanayama (prod. Hanayama)\n- Meiji Milk Chocolate by Hanayama (prod. Hanayama)\n- Oleo 10 by Yuu Asaka (prod. Yuu Asaka)\n- Puzzle of Evil by hairyfacedhooman (prod. Unknown)\n- Snowflake by Abhishek Ruikar (prod. Abhishek Ruikar)\n- Sorry by Rex Rossano Perez (prod. Rex Rossano Perez)\n- Stocking Stuffer by Jared Petersen (prod. Jared Petersen)\n- Team JB by Unknown (prod. Unknown)\n- Trivial by Goh Pit Khiam (prod. Brian Menold)\n- Ugly4 by Jigsawholic (prod. Jigsawholic)"
         },
         {
             "type": "button",

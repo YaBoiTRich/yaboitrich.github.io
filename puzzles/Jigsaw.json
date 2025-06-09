@@ -3,25 +3,8 @@
     "title": "Jigsaw",
     "content": [
         {
-            "type": "list",
-            "items": [
-                "10 Shilling 171 by Ali (Herring Puzzles), Sammy (Herring Puzzles) (prod. Herring Puzzles)",
-                "12-Piece Dime (35-45 Mercury) by Jeremy Barrett (prod. Jeremy Barrett)",
-                "13-Piece Penny (BU \"Wheat\") by Jeremy Barrett (prod. Jeremy Barrett)",
-                "14-Piece Nickel (Buffalo) by Jeremy Barrett (prod. Jeremy Barrett)",
-                "15-Piece Quarter (Mt. Hood) by Jeremy Barrett (prod. Jeremy Barrett)",
-                "17-Piece Small Dollar (Taft) by Jeremy Barrett (prod. Jeremy Barrett)",
-                "1c Benjamin Franklin Z Grill, 1868 by Ali (Herring Puzzles), Sammy (Herring Puzzles) (prod. Ali (Herring Puzzles))",
-                "21-Piece Half Dollar (1976 Kennedy w/ Hall) by Jeremy Barrett (prod. Jeremy Barrett)",
-                "25-Piece Copper Ounce (Walking Liberty) by Jeremy Barrett (prod. Jeremy Barrett)",
-                "Five Shilling Penguin 355 by Ali (Herring Puzzles), Sammy (Herring Puzzles) (prod. Herring Puzzles)",
-                "Galahad by Peter Clyde (prod. Peter Clyde)",
-                "Hastings 113 by Ali (Herring Puzzles), Sammy (Herring Puzzles) (prod. Herring Puzzles)",
-                "Hastings 113 (2nd Edition) by Ali (Herring Puzzles), Sammy (Herring Puzzles) (prod. Herring Puzzles)",
-                "Inverted Jenny by Ali (Herring Puzzles) (prod. Herring Puzzles)",
-                "King of Hearts by Ali (Herring Puzzles), Sammy (Herring Puzzles) (prod. Ali (Herring Puzzles))",
-                "Pentomino Jigsaw by Tamas Vanyo (prod. Tye Stahly)"
-            ]
+            "type": "paragraph",
+            "text": "- 10 Shilling 171 by Ali (Herring Puzzles), Sammy (Herring Puzzles) (prod. Herring Puzzles)\n- 12-Piece Dime (35-45 Mercury) by Jeremy Barrett (prod. Jeremy Barrett)\n- 13-Piece Penny (BU \"Wheat\") by Jeremy Barrett (prod. Jeremy Barrett)\n- 14-Piece Nickel (Buffalo) by Jeremy Barrett (prod. Jeremy Barrett)\n- 15-Piece Quarter (Mt. Hood) by Jeremy Barrett (prod. Jeremy Barrett)\n- 17-Piece Small Dollar (Taft) by Jeremy Barrett (prod. Jeremy Barrett)\n- 1c Benjamin Franklin Z Grill, 1868 by Ali (Herring Puzzles), Sammy (Herring Puzzles) (prod. Ali (Herring Puzzles))\n- 21-Piece Half Dollar (1976 Kennedy w/ Hall) by Jeremy Barrett (prod. Jeremy Barrett)\n- 25-Piece Copper Ounce (Walking Liberty) by Jeremy Barrett (prod. Jeremy Barrett)\n- Five Shilling Penguin 355 by Ali (Herring Puzzles), Sammy (Herring Puzzles) (prod. Herring Puzzles)\n- Galahad by Peter Clyde (prod. Peter Clyde)\n- Hastings 113 by Ali (Herring Puzzles), Sammy (Herring Puzzles) (prod. Herring Puzzles)\n- Hastings 113 (2nd Edition) by Ali (Herring Puzzles), Sammy (Herring Puzzles) (prod. Herring Puzzles)\n- Inverted Jenny by Ali (Herring Puzzles) (prod. Herring Puzzles)\n- King of Hearts by Ali (Herring Puzzles), Sammy (Herring Puzzles) (prod. Ali (Herring Puzzles))\n- Pentomino Jigsaw by Tamas Vanyo (prod. Tye Stahly)"
         },
         {
             "type": "button",

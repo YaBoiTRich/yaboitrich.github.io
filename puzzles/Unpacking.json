@@ -3,11 +3,8 @@
     "title": "(Un)packing",
     "content": [
         {
-            "type": "list",
-            "items": [
-                "Cattle Frustration by William Ja (prod. William Ja)",
-                "ResQ (VisitorQ reimagine) by Eric Fuller, Frederic Boucher (prod. Eric Fuller)"
-            ]
+            "type": "paragraph",
+            "text": "- Cattle Frustration by William Ja (prod. William Ja)\n- ResQ (VisitorQ reimagine) by Eric Fuller, Frederic Boucher (prod. Eric Fuller)"
         },
         {
             "type": "button",
