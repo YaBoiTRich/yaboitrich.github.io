@@ -4,6 +4,10 @@
     "content": [
         {
             "type": "paragraph",
+            "style": {
+                "margin-top": 0,
+                "margin-bottom": 0
+            },
             "text": "- 5-layer 3D-printed matryoshka blind labyrinth by Unknown (prod. DimensionsonDemand)\n- Blue by Chris Pitt (prod. Revomaze)\n- Bronze by Chris Pitt (prod. Revomaze)\n- Card Case by Yananose Junichi (prod. Yananose Junichi)\n- Inside 3 Phantom Awful by Inside3 (prod. Inside3)\n- Inside 3 Phantom Mean by Inside3 (prod. Inside3)\n- Lime V3 by Chris Pitt (prod. Revomaze)\n- RC Ball by Tyler Williams (prod. Tyler Williams)\n- Swiss Cheese and Grape by Bruno Hemon (prod. Bruno Hemon)\n- Turquoise V3 by Chris Pitt (prod. Revomaze)"
         },
         {

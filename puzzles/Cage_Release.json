@@ -4,6 +4,10 @@
     "content": [
         {
             "type": "paragraph",
+            "style": {
+                "margin-top": 0,
+                "margin-bottom": 0
+            },
             "text": "- Hexahog by Rademic (prod. Rademic)\n- Pandemic Puzzle by John Adrian (prod. John Adrian)"
         },
         {

@@ -4,6 +4,10 @@
     "content": [
         {
             "type": "paragraph",
+            "style": {
+                "margin-top": 0,
+                "margin-bottom": 0
+            },
             "text": "- Mantel Clock by Bill Sheckels (prod. Bill Sheckels)"
         },
         {

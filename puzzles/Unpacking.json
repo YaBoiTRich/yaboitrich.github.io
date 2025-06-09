@@ -4,6 +4,10 @@
     "content": [
         {
             "type": "paragraph",
+            "style": {
+                "margin-top": 0,
+                "margin-bottom": 0
+            },
             "text": "- Cattle Frustration by William Ja (prod. William Ja)\n- ResQ (VisitorQ reimagine) by Eric Fuller, Frederic Boucher (prod. Eric Fuller)"
         },
         {

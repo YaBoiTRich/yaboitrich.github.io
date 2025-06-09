@@ -4,6 +4,10 @@
     "content": [
         {
             "type": "paragraph",
+            "style": {
+                "margin-top": 0,
+                "margin-bottom": 0
+            },
             "text": "- Lost Vault of Jesse James by Jesse Born (prod. Jesse Born)"
         },
         {

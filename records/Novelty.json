@@ -4,6 +4,10 @@
     "content": [
         {
             "type": "paragraph",
+            "style": {
+                "margin-top": 0,
+                "margin-bottom": 0
+            },
             "text": "- 2Minute Minor - We Hate 2Minute Minor\n  // Lathe, 1\", Single, Ltd, Num\n- Ayane Fukumi - Nya\n  // Floppy, MP3, Single, Mono, Ltd, 128"
         },
         {

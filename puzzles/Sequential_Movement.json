@@ -4,6 +4,10 @@
     "content": [
         {
             "type": "paragraph",
+            "style": {
+                "margin-top": 0,
+                "margin-bottom": 0
+            },
             "text": "- Dial It In by Jared Petersen (prod. Jared Petersen)\n- Growl Box by Andrew Parr (prod. Andrew Parr)\n- Hexabox by Bruno Hemon (prod. Bruno Hemon)\n- Hugo The Hippo by Yananose Junichi (prod. Yananose Junichi)\n- Moonage by Stephan Baumegger (prod. Stephan Baumegger)\n- New Secret Box IV by Karakuri Creation Group (prod. Karakuri Creation Group)\n- Propeller by Roger D (prod. Roger D)\n- Shl\u00fcssel by Roger D (prod. Roger D)\n- USB Puzzle by Luke Waier (prod. Luke Waier)\n- Wasserhahn by Roger D (prod. Roger D)"
         },
         {

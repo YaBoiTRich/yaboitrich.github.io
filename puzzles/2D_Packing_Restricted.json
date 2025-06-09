@@ -4,6 +4,10 @@
     "content": [
         {
             "type": "paragraph",
+            "style": {
+                "margin-top": 0,
+                "margin-bottom": 0
+            },
             "text": "- 23 by Tye Stahly (prod. Tye Stahly)\n- 3Lx2 by Koichi Miura (prod. Mineyuki Uyematsu)\n- Airlock by Goh Pit Khiam (prod. Pelikan )\n- Blade 9 by Ryan Sinatra (prod. Ryan Sinatra)\n- Centrifuge by Lucie Pauwels (prod. Pelikan)\n- Daltonium [Dt] (Pink) by Jared Petersen (prod. Jared Petersen)\n- Edisonium [Ed] (Purple) by Jared Petersen (prod. Jared Petersen)\n- Flat Minima by Frederic Boucher (prod. Tye Stahly)\n- HoHoHo by Haym Hirsh (prod. Tye Stahly)\n- Krypton [Kr] (Green) by Jared Petersen (prod. Jared Petersen)\n- Lixy's Puzzle Deck by Lixy Yamada (prod. Rex Rossano Perez)\n- MPD Packer by Me! (prod. Me!)\n- Perfect Entrance (O&L) by Koichi Miura (prod. Mineyuki Uyematsu)\n- Ramson [Rs] (Red) by Jared Petersen (prod. Jared Petersen)\n- Seven Samurai by Christoph Lohe (prod. Tye Stahly)\n- Thulium [Tm] (Blue) by Jared Petersen (prod. Jared Petersen)\n- Xenium [Xn] (Orange) by Jared Petersen (prod. Jared Petersen)"
         },
         {

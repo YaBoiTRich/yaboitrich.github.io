@@ -4,6 +4,10 @@
     "content": [
         {
             "type": "paragraph",
+            "style": {
+                "margin-top": 0,
+                "margin-bottom": 0
+            },
             "text": "- Maria de la O Pendant by Miguel Berrocal (prod. Miguel Berrocal)\n- Portrait de Michelle by Miguel Berrocal (prod. Miguel Berrocal)\n- Portrait de Michelle Pendant by Miguel Berrocal (prod. Miguel Berrocal)\n- Statue of David Pendant by Miguel Berrocal (prod. Miguel Berrocal)\n- Statue of David Pendant (Second) by Miguel Berrocal (prod. Miguel Berrocal)"
         },
         {

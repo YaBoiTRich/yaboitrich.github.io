@@ -4,6 +4,10 @@
     "content": [
         {
             "type": "paragraph",
+            "style": {
+                "margin-top": 0,
+                "margin-bottom": 0
+            },
             "text": "- Capital Politics by Keith Winegar (prod. Keith Winegar)\n- Get Up by Jacques Zeimet  (prod. Jacques Zeimet)\n- Top the Tree by Jared Petersen (prod. Jared Petersen)\n- Unstable Eggs 1 by Jared Petersen (prod. Jared Petersen)\n- Unstable Eggs 2 by Jared Petersen (prod. Jared Petersen)\n- Unstable Eggs 3 by Jared Petersen (prod. Jared Petersen)"
         },
         {

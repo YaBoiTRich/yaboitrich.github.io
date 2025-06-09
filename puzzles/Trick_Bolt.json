@@ -4,6 +4,10 @@
     "content": [
         {
             "type": "paragraph",
+            "style": {
+                "margin-top": 0,
+                "margin-bottom": 0
+            },
             "text": "- A Bolt from the Blue by Ali Morris, Steve Nicholls (prod. Ali Morris, Steve Nicholls)\n- Nipple Bolt by Wil Strijbos (prod. Wil Strijbos)\n- Trick Bolt Mini by Puzzle Master (prod. Puzzle Master)\n- Trick Bolt Mini with Zipper by Puzzle Master (prod. Puzzle Master)"
         },
         {

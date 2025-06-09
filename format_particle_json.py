@@ -7,6 +7,7 @@ from process_records import get_record_sets_by_type
 
 # from pprint import pprint
 
+
 def process_collection_type(collection_type):
     # TODO: Go based off of headers versus the order in which the columns appear
     headers = []
@@ -88,9 +89,16 @@ def process_collection_type(collection_type):
         }
 
         # Process chunks of 50
-        for num in range(0, len(items), 50):
+        chunk_size = 50
+        for chunk in range(0, len(items), chunk_size):
             item_type_index_json["content"].append(
-                {"type": "paragraph", "text": "\n".join(["- " + item for item in items[num:num+50]])}
+                {
+                    "type": "paragraph",
+                    "style": {"margin-top": 0, "margin-bottom": 0},
+                    "text": "\n".join(
+                        ["- " + item for item in items[chunk : chunk + chunk_size]]
+                    ),
+                }
             )
 
         item_type_index_json["content"].append(

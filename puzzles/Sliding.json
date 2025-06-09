@@ -4,6 +4,10 @@
     "content": [
         {
             "type": "paragraph",
+            "style": {
+                "margin-top": 0,
+                "margin-bottom": 0
+            },
             "text": "- Juno's Arrow by Yananose Junichi (prod. Yananose Junichi)"
         },
         {

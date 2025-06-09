@@ -4,6 +4,10 @@
     "content": [
         {
             "type": "paragraph",
+            "style": {
+                "margin-top": 0,
+                "margin-bottom": 0
+            },
             "text": "- Ant Hunt by Boaz Feldman (prod. Boaz Feldman)\n- B-Lock by Boaz Feldman (prod. Boaz Feldman)\n- B-Lock II by Boaz Feldman (prod. Boaz Feldman)\n- Burgh Lock by Splinter J. Spierenburgh (prod. MFave)\n- Combo Breaker by Jared Petersen (prod. Jared Petersen)\n- DanLock by Dan Feldman (prod. Boaz Feldman)\n- Easy Peasy by Sashko Peshevski (prod. Sashko Peshevski)\n- Enter If You Can (Locked Edition) by Shane Hales (prod. Pelikan)\n- FunLock by Boaz Feldman (prod. Boaz Feldman)\n- Her Key to the Treasure by Sashko Peshevski (prod. Sashko Peshevski)\n- Hokey Cokey by Ali Morris, Steve Nicholls (prod. Ali Morris, Steve Nicholls)\n- HoKey PoKey by Ali Morris, Steve Nicholls (prod. Ali Morris, Steve Nicholls)\n- Lock Out by Andrew Coles (prod. Andrew Coles)\n- Loco Lock by Boaz Feldman (prod. Boaz Feldman)\n- Loki by Boaz Feldman (prod. Boaz Feldman)\n- Loophole by Boaz Feldman (prod. Boaz Feldman)\n- Mind the Gap by Andrew Coles (prod. Andrew Coles)\n- Monoblock by Sashko Peshevski (prod. Sashko Peshevski)\n- PicoLock by Boaz Feldman (prod. Boaz Feldman)\n- Pooplock by Mickael Simonetto (prod. Mickael Simonetto)\n- Revenge Lock (AKA The Wanderer) by Wil Strijbos (prod. Wil Strijbos)\n- Simple Lock 1 by Benjamin Baley (prod. Benjamin Baley)\n- Simple Lock 2 by Benjamin Baley (prod. Benjamin Baley)\n- Titan's Treasure by Sashko Peshevski (prod. Sashko Peshevski)"
         },
         {
