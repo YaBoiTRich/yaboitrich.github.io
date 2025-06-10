@@ -12,12 +12,12 @@
         {
             "type": "button",
             "label": "(Dis)assembly",
-            "action": "/puzzles/Disassembly"
+            "action": "/puzzles/_Dis_assembly"
         },
         {
             "type": "button",
             "label": "(Un)packing",
-            "action": "/puzzles/Unpacking"
+            "action": "/puzzles/_Un_packing"
         },
         {
             "type": "button",
@@ -27,12 +27,12 @@
         {
             "type": "button",
             "label": "2D Packing (Restricted)",
-            "action": "/puzzles/2D_Packing_Restricted"
+            "action": "/puzzles/2D_Packing__Restricted_"
         },
         {
             "type": "button",
             "label": "2D Packing (Unrestricted)",
-            "action": "/puzzles/2D_Packing_Unrestricted"
+            "action": "/puzzles/2D_Packing__Unrestricted_"
         },
         {
             "type": "button",
@@ -102,12 +102,12 @@
         {
             "type": "button",
             "label": "Packing (Restricted)",
-            "action": "/puzzles/Packing_Restricted"
+            "action": "/puzzles/Packing__Restricted_"
         },
         {
             "type": "button",
             "label": "Packing (Unrestricted)",
-            "action": "/puzzles/Packing_Unrestricted"
+            "action": "/puzzles/Packing__Unrestricted_"
         },
         {
             "type": "button",

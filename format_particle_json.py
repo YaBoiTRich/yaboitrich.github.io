@@ -64,8 +64,7 @@ def process_collection_type(collection_type):
     )
 
     for item_type, items in collection_formatted.items():
-        item_type_file_name = re.sub(r"[\(\)]", "", item_type)
-        item_type_file_name = re.sub(r"[^\w]", "_", item_type_file_name)
+        item_type_file_name = re.sub(r"[^\w]", "_", item_type)
 
         collection_index_json["content"].append(
             {
